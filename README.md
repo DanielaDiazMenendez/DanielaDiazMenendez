@@ -4,7 +4,7 @@ Hola! Soy Daniela 👋
 
 
 ## 🌐 Perfil Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/danieladiazmenendez-dataanalytics/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danieladiazmenendez-dataanalytics/) 
 
 📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a ddiazmenendez@outlook.com
 
